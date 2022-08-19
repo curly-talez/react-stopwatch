@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/curly-talez/react-stopwatch.git/static/css/main.75f4efc2.css",
+    "main.js": "/curly-talez/react-stopwatch.git/static/js/main.5dcf00df.js",
+    "static/js/787.c04b51b3.chunk.js": "/curly-talez/react-stopwatch.git/static/js/787.c04b51b3.chunk.js",
+    "index.html": "/curly-talez/react-stopwatch.git/index.html",
+    "main.75f4efc2.css.map": "/curly-talez/react-stopwatch.git/static/css/main.75f4efc2.css.map",
+    "main.5dcf00df.js.map": "/curly-talez/react-stopwatch.git/static/js/main.5dcf00df.js.map",
+    "787.c04b51b3.chunk.js.map": "/curly-talez/react-stopwatch.git/static/js/787.c04b51b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f4efc2.css",
+    "static/js/main.5dcf00df.js"
+  ]
+}
