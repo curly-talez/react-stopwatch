@@ -16,3 +16,5 @@ You can run this in local using:
 ```
 npm start
 ```
+
+![Stopwatch Application Screenshot](/public/stopwatch.png)
